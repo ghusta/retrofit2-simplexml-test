@@ -48,6 +48,16 @@
             <groupId>com.squareup.retrofit2</groupId>
             <artifactId>converter-simplexml</artifactId>
             <version>${retrofit.version}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>stax</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>xpp3</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
 
         <!-- LOGGING -->
