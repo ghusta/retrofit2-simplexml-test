@@ -14,7 +14,7 @@ The library for deserialization of XML is **SimpleXML** (for Java).
 - [Retrofit](https://square.github.io/retrofit/) library
 - [List of official converters](https://square.github.io/retrofit/#restadapter-configuration)
 - [Simple](http://www.simpleframework.org/) framework / on [GitHub](https://github.com/ngallagher/simpleframework)
-- SO question : [How to use Retrofit and SimpleXML together in downloading and parsing an XML file from a site?]()https://stackoverflow.com/questions/25380280/how-to-use-retrofit-and-simplexml-together-in-downloading-and-parsing-an-xml-fil)
+- SO question : [How to use Retrofit and SimpleXML together in downloading and parsing an XML file from a site?](https://stackoverflow.com/questions/25380280/how-to-use-retrofit-and-simplexml-together-in-downloading-and-parsing-an-xml-fil)
 
 ## Content of XML sample
 
