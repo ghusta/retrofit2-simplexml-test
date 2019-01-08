@@ -4,6 +4,13 @@ import org.slf4j.bridge.SLF4JBridgeHandler;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
+/**
+ * Installation of {@link SLF4JBridgeHandler} which will
+ * bridge/route all JUL log records to the SLF4J API.
+ * <p>
+ * See also documentation : <a href="https://www.slf4j.org/legacy.html#jul-to-slf4j">jul-to-slf4j bridge</a>.
+ * </p>
+ */
 public class SLF4JBridgeHandlerUtils
 {
 
